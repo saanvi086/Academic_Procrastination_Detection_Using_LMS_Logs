@@ -25,8 +25,11 @@ academic-procrastination-detection/
 🛠️ Tech Stack
 
 Language: Python
+
 Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
 Platform: Jupyter Notebook / Google Colab
+
 Dataset: LMS activity logs
 
 
